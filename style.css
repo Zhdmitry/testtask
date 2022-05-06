@@ -90,7 +90,7 @@ html::-webkit-scrollbar {
       rgba(0, 78, 134, 0.8) 0%,
       rgba(10, 65, 104, 0.8) 100%
     ),
-    url(/imgs/sean-pollock-203658-unsplash.png);
+    url(imgs/sean-pollock-203658-unsplash.png);
   border: 1px solid #000000;
   box-sizing: border-box;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
@@ -410,7 +410,7 @@ html::-webkit-scrollbar {
       rgba(0, 78, 134, 0.8) 0%,
       rgba(10, 65, 104, 0.8) 100%
     ),
-    url(/imgs/patrick-tomasso-89367-unsplash.png);
+    url(imgs/patrick-tomasso-89367-unsplash.png);
   border: 1px solid #000000;
   box-sizing: border-box;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
@@ -633,7 +633,7 @@ html::-webkit-scrollbar {
 }
 
 .step1-quote-img {
-  background: url(/imgs/706181.png);
+  background: url(imgs/706181.png);
   border-radius: 50px;
   width: 56px;
   height: 56px;
