@@ -727,7 +727,8 @@ html::-webkit-scrollbar {
 
   .section-3-slider {
     margin-left: 15vw;
-    max-width: 90vw;
+    max-width: 95vw;
+    width: 95vw;
   }
 
   .section-4-step1 {
@@ -843,9 +844,10 @@ html::-webkit-scrollbar {
 
   .section-3-slider {
     margin-top: 50px;
-    margin-left: 50px;
+    margin-left: 5vw;
     display: flex;
-    max-width: 90vw;
+    max-width: 95vw;
+    width: 95vw;
     height: 400px;
     overflow-x: scroll;
   }
@@ -1038,9 +1040,10 @@ html::-webkit-scrollbar {
 
   .section-3-slider {
     margin-top: 50px;
-    margin-left: 50px;
+    margin-left: 5vw;
     display: flex;
-    max-width: 90vw;
+    max-width: 95vw;
+    width: 95vw;
     height: 400px;
     overflow-x: scroll;
   }
@@ -1186,9 +1189,10 @@ html::-webkit-scrollbar {
 
   .section-3-slider {
     margin-top: 50px;
-    margin-left: 50px;
+    margin-left: 5vw;
     display: flex;
-    max-width: 90vw;
+    max-width: 95vw;
+    width: 95vw;
     height: 400px;
     overflow-x: scroll;
   }
@@ -1457,9 +1461,10 @@ html::-webkit-scrollbar {
 
   .section-3-slider {
     margin-top: 50px;
-    margin-left: 50px;
+    margin-left: 5vw;
     display: flex;
     max-width: 95vw;
+    width: 95vw;
     height: 400px;
     overflow-x: scroll;
   }
@@ -1911,9 +1916,10 @@ html::-webkit-scrollbar {
 
   .section-3-slider {
     margin-top: 50px;
-    margin-left: 50px;
+    margin-left: 5vw;
     display: flex;
     max-width: 95vw;
+    width: 95vw;
     height: 400px;
     overflow-x: scroll;
   }
@@ -2386,8 +2392,9 @@ html::-webkit-scrollbar {
 
   .section-3-slider {
     margin-top: 50px;
-    margin-left: 50px;
+    margin-left: 5vw;
     display: flex;
+    width: 95vw;
     max-width: 95vw;
     height: 400px;
     overflow-x: scroll;
@@ -2400,7 +2407,8 @@ html::-webkit-scrollbar {
   .section-3-slide {
     max-width: 400px;
     max-height: 381px;
-    margin-right: 80px;
+    margin-right: 50px;
+    width: 200px;
   }
 
   .slide-title {
